@@ -1,4 +1,4 @@
-// Transport keys for DAW by ourniti, tested on fruity loops.
+// Transport keys for DAW by Damizon, tested on fruity loops.
 // Switches going to pinouts D2,D3,D4,D5,D6 and GND, TX pin and +5v goes to midi port.
 // MIDI Universal Real Time SysEx Message Format, MMC Message Format
 // F0(240), 7F(127), <Device-ID>(127=all devices), <Sub-ID#1>(6=Command), <Sub-ID#2>, F7(247) 
